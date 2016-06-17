@@ -1,0 +1,46 @@
+{
+    "location": {
+        "sentfrom": "Florence", 
+        "sentto": "Constantinople"
+    },
+    "context": {
+        "date": "year", 
+        "majorevents": "council"
+    }, 
+    "language": "Greek",
+    "topic": "About Italy and Greece",
+    "bibliography": "Sabadini (1980)",  
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "5.0 megapixels"
+    }, 
+    "sender": {
+        "name": "Manuel Chrysoloras", 
+        "office": "office", 
+        "life": "year-year"
+    },
+    "recipient": {
+        "name": "The Recipient", 
+        "office": "office", 
+        "life": "year-year"
+    },
+    "text": "TBD.", 
+    "location": {
+        "sentfrom": "Florence", 
+        "sentto": "Constantinople"
+    }, 
+    "edition": {
+        "author": "Sabadini", 
+        "publication": "Epistolarium", 
+        "year": "1890" 
+            }, 
+    "id": "Manuel-Chrysoloras-to-Coluccio-Salutati-II", 
+    "name": "Manuel Chrysoloras to Coluccio Salutati, II", 
+    "type": {
+        "bycontent": "recommendation",                     
+        "bygenre": "x"
+    }
+}

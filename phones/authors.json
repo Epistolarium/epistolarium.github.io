@@ -1,0 +1,31 @@
+{
+	"id": "Manuel Chrysoloras to Coluccio Salutati",
+	"sender": "www.oxforddictionaryofbyzantium",
+	"recipientOfletter": "Coluccio Salutati",
+	"type": "recommendation",
+	"incipit": "here comes the incipit",
+	"text": "here comes the text",
+	"translation": "translation from",
+	"date": "1397 - 1398",
+	"name": "Manuel Chrysoloras to Coluccio Salutati",
+	"topic": "About Italy and Greece",
+	"translation": "lorem ipsum",
+	"language": "Greek",
+    "context": "events and texts",
+	"sentFrom": "City",
+	"sentTo": "City",
+	"URLauthor": "www.oxforddictionaryofbyzantium",
+	"URLsender": "www.oxforddictionaryofbyzantium",
+	"edition": "author title year",
+	"bibliographyone": "author and text",
+	"bibliographytwo": "author and text",
+	"bibliographytwo": "author and text"
+},
+
+{
+	"id": "Manuel Chrysoloras to Coluccio Salutati",
+	"date": "1397 - 1398",
+	"name": "Manuel Chrysoloras to Coluccio Salutati",
+	"snippet": "On Italy and Greece.",
+	"location": "CITY"
+}

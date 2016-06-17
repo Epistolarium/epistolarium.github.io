@@ -1,0 +1,235 @@
+[
+    {
+        "age": "1398", 
+        "id": "Manuel-Chrysoloras-to-Coluccio-Salutati", 
+        "name": "Manuel Chrysoloras to Coluccio Salutati", 
+        "snippet": "On the translation into Latin of Plutarch's works.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Coluccio Salutati",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1399", 
+        "id": "Manuel-Chrysoloras-to-Coluccio-Salutati-II", 
+        "name": "Manuel Chrysoloras to Coluccio Salutati II", 
+        "snippet": "A cover letter for Manuel Chrysoloras'Treatise on the Procession of the Holy Spirit.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Coluccio Salutati",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+        
+    }, 
+    {
+        "age": "1400", 
+        "id": "Manuel-Chrysoloras-to-Maximos-Chrysoberges", 
+        "name": "Manuel Chrysoloras to Maximos Chrysoberges", 
+        "snippet": "On the Greek translation of the Missale Romanum.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Maximos Chrysoberges",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+    }, 
+    {
+        "age": "1412", 
+        "id": "Manuel-Chrysoloras-to-Guarino", 
+        "name": "Manuel Chrysoloras to Guarino Veronese", 
+        "snippet": "Chrysoloras congratulates his disciple for promoting Greek language in Italy.",
+        "language" : "Greek",
+        "sender": "Manuel Chrysoloras",
+        "recipient": "Guarino Veronese",
+        "sentFrom": "Rome",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1412", 
+        "id": "Manuel-Chrysoloras-to-Guarino-Veronese-II", 
+        "name": "Manuel Chrysoloras to Guarino Veronese, II", 
+        "snippet": "About a meeting between Chrysoloras and Guarino.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Guarino Veronese",
+        "sentFrom": "Rome",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1404", 
+        "id": "Manuel-Chrysoloras-to-Pope-Innocent-VII", 
+        "name": "Manuel Chrysoloras to Pope Innocent VII", 
+        "snippet": "On his dealings with the Dominican Order in Venice.",
+        "language": "Latin",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Pope Innocent VII",
+        "sentFrom": "Venice",
+        "sentTo": "Rome"
+    }, 
+    {
+        "age": 4, 
+        "id": "Manuel-Chrysoloras-to-Leonardo-Bruni", 
+        "name": "Manuel Chrysoloras to Leonardo Bruni", 
+        "snippet": "Chrysoloras encourages Leonardo Bruni to continue his efforts of translating from Greek literature.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Leonardo Bruni",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+    },
+    {
+        "age": 3, 
+        "id": "Manuel-Chrysoloras-to-John-Chrysoloras", 
+        "name": "Manuel Chrysoloras to John Chrysoloras", 
+        "snippet": "Cover letter Manuel Chrysoloras' Comparison between Old and New Rome.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "John Chrysoloras",
+        "sentFrom": "Florence",
+        "sentTo": "Constantinople"
+    },
+    {
+        "age": 3, 
+        "id": "Manuel-Chrysoloras-to-Demetrios-Chrysoloras", 
+        "name": "Manuel Chrysoloras to Demetrios Chrysoloras", 
+        "snippet": "Cover letter Manuel Chrysoloras' Comparison between Old and New Rome.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Demetrios Chrysoloras",
+        "sentFrom": "Florence",
+        "sentTo": "Constantinople"
+    },
+    {
+        "age": "1411", 
+        "id": "Manuel-Chrysoloras-to-Palla-Strozzi", 
+        "name": "Manuel Chrysoloras to Palla Strozzi", 
+        "snippet": "Consolatory letter for the loss of Palla's brother.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Palla Strozzi",
+        "sentFrom": "Rome",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1412", 
+        "id": "Manuel-Chrysoloras-to-Palla-Strozzi-II", 
+        "name": "Manuel Chrysoloras to Palla Strozzi, II", 
+        "snippet": "On the study of Greek literature.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Palla Strozzi",
+        "sentFrom": "Rome",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1413", 
+        "id": "Manuel-Chrysoloras-to-Uberto-Decembrio", 
+        "name": "Manuel Chrysoloras to Uberto Decembrio", 
+        "snippet": "Recommendation letter for a position for Pier Candido at the Roman Curia.",
+        "language" : "Latin",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Uberto Decembrio",
+        "sentFrom": "Venice",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1413", 
+        "id": "Manuel-Chrysoloras-to-Ambrogio-Traversari", 
+        "name": "Manuel Chrysoloras to Ambrogio Traversari", 
+        "snippet": "Extensive philosophical letter on friendship and the value of priase among friends.",
+        "language" : "Greek",
+        "sender" : "Manuel Chrysoloras",
+        "recipient" : "Ambrogio Traversari",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1395", 
+        "id": "Manuel-Kalekas-to-Jacopo-Angeli", 
+        "name": "Manuel Kalekas to Jacopo Angeli", 
+        "snippet": "Kalekas' satisfaction with his student's knowledge of Greek.",
+        "language" : "Greek",
+        "sender" : "Manuel Kalekas",
+        "recipient" : "Jacopo Angeli",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1400", 
+        "id": "Manuel-Kalekas-to-Jacopo-Angeli-II", 
+        "name": "Manuel Kalekas to Jacopo Angeli, II", 
+        "snippet": "Kalekas' hope to see his student again despite the distance.",
+        "language" : "Greek",
+        "sender" : "Manuel Kalekas",
+        "recipient" : "Jacopo Angeli",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1400", 
+        "id": "Manuel-Kalekas-to-Jacopo-Angeli-III", 
+        "name": "Manuel Kalekas to Jacopo Angeli, III", 
+        "snippet": "Kalekas supports Jacopo in setting up a library in Florence.",
+        "language" : "Greek",
+        "sender" : "Manuel Kalekas",
+        "recipient" : "Jacopo Angeli",
+        "sentFrom": "Constantinople",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1400", 
+        "id": "Manuel-Kalekas-to-Jacopo-Angeli-IV", 
+        "name": "Manuel Kalekas to Jacopo Angeli, IV", 
+        "snippet": "Kalekas reminds Jacopo of the common Greek origins of Byzantium and Italy and asks support for obtaining the Greek chair of Florence.",
+        "language" : "Greek",
+        "sender" : "Manuel Kalekas",
+        "recipient" : "Jacopo Angeli",
+        "sentFrom": "Padova",
+        "sentTo": "Rome"
+    },
+    {
+        "age": "1404", 
+        "id": "Manuel-Kalekas-to-Jacopo-Angeli-V", 
+        "name": "Manuel Kalekas to Jacopo Angeli, V", 
+        "snippet": "Kalekas mentions his sojourn in Italy",
+        "language" : "Greek",
+        "sender" : "Manuel Kalekas",
+        "recipient" : "Jacopo Angeli",
+        "sentFrom": "Padova",
+        "sentTo": "Rome"
+    },
+    {
+        "age": "1453", 
+        "id": "Lorenzo-Valla-to-Cardinal-Bessarion", 
+        "name": "Lorenzo Valla to Cardinal Bessarion", 
+        "snippet": "Leonardo Bruni praises Bessarion and recommends his friend, Andrea Contrario",
+        "language" : "Latin",
+        "sender" : "Lorenzo Valla",
+        "recipient" : "Cardinal Bessarion",
+        "sentFrom": "Florence",
+        "sentTo": "Rome"
+    },
+    {
+        "age": "1453", 
+        "id": "Cardinal-Bessarion-to-Lorenzo-Valla", 
+        "name": "Cardinal Bessarion to Lorenzo Valla", 
+        "snippet": "Bessarion informs Valla about the possibility to return to Rome",
+        "language" : "Latin",
+        "sender" : "Cardinal Bessarion",
+        "recipient" : "Lorenzo Valla",
+        "sentFrom": "Rome",
+        "sentTo": "Florence"
+    },
+    {
+        "age": "1453", 
+        "id": "Cardinal-Bessarion-to-Lorenzo-Valla-II", 
+        "name": "Cardinal Bessarion to Lorenzo Valla II", 
+        "snippet": "Bessarion asks Valla a copy of Quintilian",
+        "language" : "Latin",
+        "sender" : "Cardinal Bessarion",
+        "recipient" : "Lorenzo Valla",
+        "sentFrom": "Rome",
+        "sentTo": "Florence"
+    }
+
+]

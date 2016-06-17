@@ -1,0 +1,107 @@
+<div class="detail">
+        <div class="header">
+        <h1>Epistolarium Graeco-Latinum</h1>
+            <h2>Letters From Late Medieval Mediterranean</h2>
+        </div>
+          <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+        <h3>Select criteria:</h3>
+        <br />
+      <!--<select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+        <option value="age">Newest</option>
+      </select>-->
+        
+        <h4>Sender: </h4>
+		<select ng-model="search.sender">
+			<option value="">All</option>
+			<option value="Manuel Chrysoloras">Manuel Chrysoloras</option>
+			<option value="Manuel Kalekas">Manuel Kalekas</option>
+			<option value="Cardinal Bessarion">Cardinal Bessarion</option>
+			<option value="Lorenzo Valla">Lorenzo Valla</option>
+			
+		</select>
+        <br />
+        <br />
+        <br />
+        <h4>Recipient</h4>
+        <select ng-model="search.recipient">
+			<option value="">All</option>
+			<option value="Coluccio Salutati">Coluccio Salutati</option>
+			<option value="Guarino Veronese">Guarino Veronese</option>
+			<option value="Palla Strozzi">Palla Strozzi</option>
+			<option value="Cardinal Bessarion">Cardinal Bessarion</option>
+			<option value="Lorenzo Valla">Lorenzo Valla</option>
+			<option value="Jacopo Angelo">Jacopo Angelo</option>
+			<option value="John Chrysoloras">John Chrysoloras</option>
+			<option value="Uberto Decembrio">Uberto Decembrio</option>
+			<option value="Pope Innocent VII">Pope Innocent VII</option>
+			<option value="Ambrogio Traversari">Ambrogio Traversari</option>
+			
+		</select>
+        <br />
+        <br />
+        <br />
+        <h4>Language</h4>
+        <select ng-model="search.language">
+			<option value="">All</option>
+			<option value="Greek">Greek</option>
+			<option value="Latin">Latin</option>
+			
+		</select>
+        <br />
+        <br />
+        <br />
+
+        <h4>Letter Sent From:</h4> 
+		<select ng-model="search.sentFrom">
+			<option value="">All</option>
+			<option value="Florence">Florence</option>
+			<option value="Constantinople">Constantinople</option>
+			<option value="Venice">Venice</option>
+			<option value="Padova">Padova</option>
+			<option value="Rome">Rome</option>
+			
+		</select>
+        <br />
+        <br />
+        <br />
+
+        <h4>Letter Sent to:</h4> 
+		<select ng-model="search.sentTo">
+			<option value="">All</option>
+			<option value="Florence">Florence</option>
+			<option value="Constantinople">Constantinople</option>
+			<option value="Venice">Venice</option>
+			<option value="Padova">Padova</option>
+			<option value="Rome">Rome</option>
+			
+		</select>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="phones">
+        <li ng-repeat="phone in phones | filter:search" class="thumbnail">
+          <a href="#/phones/{{phone.id}}" target="_blank">{{phone.name}}</a>
+          <p>{{phone.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+    <div class="footer">
+        <hr>
+        Epistolarium Graeco-Latinum | Florin Leonte
+        <br/>
+        <br/>
+        <br/>
+        2016
+        <br/>
+        <br/>
+    </div>
+
+  </div><!--ends detail-->

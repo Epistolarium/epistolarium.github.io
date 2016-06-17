@@ -1,0 +1,43 @@
+{
+    "location": {
+        "sentfrom": "Florence", 
+        "sentto": "Constantinople"
+    },
+    "context": {
+        "date": "1412", 
+        "majorevents": "council"
+    },
+    "topic": "Greek culture and Italy",
+    "language": "Greek",
+    "bibliography": "Sabadini (1900)", 
+    "related": {
+        "letters": [
+            "Manuel Chrysoloras to his mentor", "Manuel Chrysoloras to Salutati"
+        ], 
+        "other": "Comparison"
+    }, 
+    "sender": {
+        "name": "Manuel Chrysoloras", 
+        "office": "Teacher and Diplomat", 
+        "life": "year-year"
+    }, 
+    "recipient": {
+        "name": "Guarino Veronese", 
+        "office": "Teacher and Scholar", 
+        "life": "year-year"
+    },
+    "text": "Chrysoloras congratulates his disciple for promoting Greek language in Italy.", 
+    "edition": {
+        "author": "Sabadini", 
+        "publication": "Epistolarium", 
+        "year": "1890" 
+            }, 
+    "id": "Manuel-Chrysoloras-to-Guarino", 
+     
+    "name": "Manuel Chrysoloras to Guarino", 
+    "type": {
+        "bycontent": "recommendation",                     
+        "bygenre": "genre"
+    } 
+        
+}

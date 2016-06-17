@@ -1,0 +1,145 @@
+
+<div class="detail">
+    
+        <div class="header">
+        <h1>Epistolarium Graeco-Latinum</h1>
+            <h2>Letters From Late Medieval Mediterranean</h2>
+            
+            <a class="btn btn-primary" href="#/phones" role="button">New Search</a>
+        </div>
+ 
+<div class="row">
+    <div class="col-md-8">
+        <h1>{{phone.name}}</h1>
+
+        <div class="letter">
+            <p>{{phone.text}}</p>
+        
+        </div> 
+    </div>
+    <div class="col-md-4">
+        <ul class="specs">
+
+          <li>
+            <span>Language</span>
+            <dl>
+              <dt>{{phone.language}}</dt>
+            </dl>
+          </li>
+          <li>
+            <span>Topic</span>
+            <dl>
+              <dt>{{phone.topic}}</dt>
+            </dl>
+          </li>
+          <li>
+            <span>Locations</span>
+            <dl>
+              <dt>Sent from</dt>
+              <dd>{{phone.location.sentfrom}}</dd>
+              <dt>Sent to</dt>
+              <dd>{{phone.location.sentto}}</dd>
+            </dl>
+          </li>
+        </ul>
+    </div><!--ends first row-->
+    </div> <!--Ends main row-->
+    <div class="row">
+        <div class="col-md-4">
+            <ul class="specs">
+              <li>
+                <span>Sender</span>
+                <dl>
+                  <dt>Name</dt>
+                  <dd>{{phone.sender.name}}</dd>
+                  <dt>Title</dt>
+                  <dd>{{phone.sender.office}}</dd>
+                  <dt>Years</dt>
+                  <dd>{{phone.sender.life}}</dd>
+
+                </dl>
+              </li>
+              <li>
+                <span>Recipient</span>
+                <dl>
+                  <dt>Name</dt>
+                  <dd>{{phone.recipient.name}}</dd>
+                  <dt>Title</dt>
+                  <dd>{{phone.recipient.office}}</dd>
+                  <dt>Years</dt>
+                  <dd>{{phone.recipient.life}}</dd>
+
+                </dl>
+              </li>
+              <li>
+                <span>Type</span>
+                <dl>
+                  <dt>By content</dt>
+                  <dd>{{phone.type.bycontent}}</dd>
+                  <dt>By genre</dt>
+                  <dd>{{phone.type.bygenre}}</dd>
+                </dl>
+              </li>
+            </ul>
+        </div> <!--ends first col-->
+        <div class="col-md-4">
+            <ul class="specs">
+                <li>
+                <span>Edition</span>
+                <dl>
+                  <dt>Author</dt>
+                  <dd>{{phone.edition.author}}</dd>
+                  <dt>Publication</dt>
+                  <dd>{{phone.edition.publication}}</dd>
+                  <dt>Year</dt>
+                  <dd>{{phone.edition.year}}</dd>
+                </dl>
+              </li>
+              <li>
+                <span>Related Material</span>
+                <dl>
+                  <dt>Other</dt>
+                  <dd>{{phone.related.other}}</dd>
+                  <dt>Features</dt>
+                  <dd>{{phone.related.letters.join(', ')}}</dd>
+                </dl>
+              </li>
+            </ul>
+        </div><!--ends second col-->
+        <div class="col-md-4">
+            <ul class="specs">
+                <li>
+                <span>Context</span>
+                <dl>
+                  <dt>Date</dt>
+                  <dd>{{phone.context.date}}</dd>
+                  <dt>Features</dt>
+                  <dd>{{phone.context.majorevents}}</dd>
+                </dl>
+              </li>
+              <li>
+                <span>Bibliography</span>
+                <dl>
+                  <dt></dt>
+                  <dd>{{phone.bibliography}}</dd>
+
+                </dl>
+              </li>
+
+            </ul>
+        </div>
+                          
+              
+        </div> <!--ends second row-->
+    <div class="footer">
+        <hr>
+        Epistolarium Graeco-Latinum | Florin Leonte
+        <br/>
+        <br/>
+        <br/>
+        2016
+        <br/>
+        <br/>
+    </div>
+    
+</div> <!--Ends detail-->
